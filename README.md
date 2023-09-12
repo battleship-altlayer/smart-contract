@@ -3,8 +3,8 @@
 
 ## Quick start
 
-Original repor was taked from chainstacklab:
-
+Original repor was taken from *chainstacklab*:
+Original code here:
 ```sh
 git clone https://github.com/chainstacklabs/zk-battleship-game-hardhat.git
 ```
